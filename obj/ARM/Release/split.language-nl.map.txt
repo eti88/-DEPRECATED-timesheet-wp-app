@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nl"
+"ResourceDimensions"		"language-nl-nl"
+
+[Files]
+"C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\obj\ARM\Release\split.language-nl.pri"			"resources.pri"

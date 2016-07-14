@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppVersion.Text" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="BtnAbout.Label" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="BtnAdd.Content" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="BtnDelete.Content" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="BtnDeleteAll.Content" xml:space="preserve">
+    <value>Delete All</value>
+  </data>
+  <data name="BtnExport.Label" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="BtnModels.Label" xml:space="preserve">
+    <value>Models</value>
+  </data>
+  <data name="BtnReview.Content" xml:space="preserve">
+    <value>Review</value>
+  </data>
+  <data name="BtnUpdate.Content" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="CmbTypeAc.PlaceholderText" xml:space="preserve">
+    <value>Activity Type</value>
+  </data>
+  <data name="CreatedBy.Text" xml:space="preserve">
+    <value>Created by Etienne Tomaselli</value>
+  </data>
+  <data name="GraphsD.Title" xml:space="preserve">
+    <value>Day</value>
+  </data>
+  <data name="GraphsM.Title" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="GraphsT.Title" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="GraphsW.Title" xml:space="preserve">
+    <value>Week</value>
+  </data>
+  <data name="NoElements.Text" xml:space="preserve">
+    <value>No Items</value>
+  </data>
+  <data name="PlaceHolderDesc.Text" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="PlaceHolderName.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PvItemDay.Header" xml:space="preserve">
+    <value>Day</value>
+  </data>
+  <data name="PvItemgrap.Header" xml:space="preserve">
+    <value>Graphs</value>
+  </data>
+  <data name="PvItemHome.Header" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="PvItemMonth.Header" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="PvItemWeek.Header" xml:space="preserve">
+    <value>Week</value>
+  </data>
+  <data name="SubtitleAbout.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="SubtitleAddModel.Text" xml:space="preserve">
+    <value>Add Model</value>
+  </data>
+  <data name="SubtitleDelUp.Text" xml:space="preserve">
+    <value>Delete - Update</value>
+  </data>
+  <data name="SubtitleModelsList.Text" xml:space="preserve">
+    <value>Models list</value>
+  </data>
+  <data name="TitleA.Text" xml:space="preserve">
+    <value>Easy TimeSheet</value>
+  </data>
+  <data name="TitleApp.Title" xml:space="preserve">
+    <value>Easy TimeSheet</value>
+  </data>
+  <data name="TxtEnd.Text" xml:space="preserve">
+    <value>End</value>
+  </data>
+  <data name="TxtEndTime.Text" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="TxtLength.Text" xml:space="preserve">
+    <value>Length</value>
+  </data>
+  <data name="TxtMinutes.Text" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="TxtStart.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="TxtStartTime.Text" xml:space="preserve">
+    <value>from</value>
+  </data>
+  <data name="AppDescription.Text" xml:space="preserve">
+    <value>Timesheet it's a easy method to record and track the amount of the working time spent on each activity.</value>
+    <comment>Description App</comment>
+  </data>
+  <data name="SuggestionAndFeed.Content" xml:space="preserve">
+    <value>Help and Suggestion</value>
+  </data>
+  <data name="BtnAbortCtrl.Content" xml:space="preserve">
+    <value>Abort</value>
+  </data>
+  <data name="BtnReloadGraphs.Content" xml:space="preserve">
+    <value>Reload All Graphs</value>
+  </data>
+  <data name="BtnSaveFileLocal.Content" xml:space="preserve">
+    <value>Save on Phone</value>
+  </data>
+  <data name="BtnSaveFileOneDrive.Content" xml:space="preserve">
+    <value>Save on OneDrive</value>
+  </data>
+  <data name="BtnSearch.Content" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="BtnStartCtrl.Content" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="BtnStopCtrl.Content" xml:space="preserve">
+    <value>End</value>
+  </data>
+  <data name="DTpickerFrom.Header" xml:space="preserve">
+    <value>From</value>
+  </data>
+  <data name="DTpickerTo.Header" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="SubtitleActivitiesQ.Text" xml:space="preserve">
+    <value>Activities</value>
+  </data>
+  <data name="SubtitleExportPage.Text" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="BtnDeleteAllAc.Content" xml:space="preserve">
+    <value>Delete All Activity</value>
+  </data>
+  <data name="BtnSettings.Label" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SubtitleSettings.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="ToogleLiveTile.Header" xml:space="preserve">
+    <value>Live Tile</value>
+  </data>
+  <data name="txtNoActivityRunning.Text" xml:space="preserve">
+    <value>No Activity running</value>
+  </data>
+  <data name="BtnAds.Label" xml:space="preserve">
+    <value>In-App Purchase</value>
+  </data>
+  <data name="BtnCompra.Content" xml:space="preserve">
+    <value>Buy Now</value>
+  </data>
+  <data name="SubtitleAds.Text" xml:space="preserve">
+    <value>In-App Purchase</value>
+  </data>
+  <data name="BtnSendByMail.Content" xml:space="preserve">
+    <value>Send by Mail</value>
+  </data>
+</root>

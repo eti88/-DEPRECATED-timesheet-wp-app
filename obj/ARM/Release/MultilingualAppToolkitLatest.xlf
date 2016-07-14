@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="timesheet_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="timesheet" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\BtnSendByMail\Content" translate="yes" xml:space="preserve">
+          <source>Send by Mail</source>
+          <target state="new">Send by Mail</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleAds\Text" translate="yes" xml:space="preserve">
+          <source>In-App Purchase</source>
+          <target state="new">In-App Purchase</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnCompra\Content" translate="yes" xml:space="preserve">
+          <source>Buy Now</source>
+          <target state="new">Buy Now</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnAds\Label" translate="yes" xml:space="preserve">
+          <source>In-App Purchase</source>
+          <target state="new">In-App Purchase</target>
+        </trans-unit>
+        <trans-unit id="Resources\txtNoActivityRunning\Text" translate="yes" xml:space="preserve">
+          <source>No Activity running</source>
+          <target state="new">No Activity running</target>
+        </trans-unit>
+        <trans-unit id="Resources\ToogleLiveTile\Header" translate="yes" xml:space="preserve">
+          <source>Live Tile</source>
+          <target state="new">Live Tile</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleSettings\Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnSettings\Label" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnDeleteAllAc\Content" translate="yes" xml:space="preserve">
+          <source>Delete All Activity</source>
+          <target state="new">Delete All Activity</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleExportPage\Text" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleActivitiesQ\Text" translate="yes" xml:space="preserve">
+          <source>Activities</source>
+          <target state="new">Activities</target>
+        </trans-unit>
+        <trans-unit id="Resources\DTpickerTo\Header" translate="yes" xml:space="preserve">
+          <source>to</source>
+          <target state="new">to</target>
+        </trans-unit>
+        <trans-unit id="Resources\DTpickerFrom\Header" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="new">From</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnStopCtrl\Content" translate="yes" xml:space="preserve">
+          <source>End</source>
+          <target state="new">End</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnStartCtrl\Content" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <target state="new">Start</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnSearch\Content" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnSaveFileOneDrive\Content" translate="yes" xml:space="preserve">
+          <source>Save on OneDrive</source>
+          <target state="new">Save on OneDrive</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnSaveFileLocal\Content" translate="yes" xml:space="preserve">
+          <source>Save on Phone</source>
+          <target state="new">Save on Phone</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnReloadGraphs\Content" translate="yes" xml:space="preserve">
+          <source>Reload All Graphs</source>
+          <target state="new">Reload All Graphs</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnAbortCtrl\Content" translate="yes" xml:space="preserve">
+          <source>Abort</source>
+          <target state="new">Abort</target>
+        </trans-unit>
+        <trans-unit id="Resources\SuggestionAndFeed\Content" translate="yes" xml:space="preserve">
+          <source>Help and Suggestion</source>
+          <target state="new">Help and Suggestion</target>
+        </trans-unit>
+        <trans-unit id="Resources\AppDescription\Text" translate="yes" xml:space="preserve">
+          <source>Timesheet it's a easy method to record and track the amount of the working time spent on each activity.</source>
+          <target state="new">Timesheet it's a easy method to record and track the amount of the working time spent on each activity.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description App</note>
+        </trans-unit>
+        <trans-unit id="Resources\TxtStartTime\Text" translate="yes" xml:space="preserve">
+          <source>from</source>
+          <target state="new">from</target>
+        </trans-unit>
+        <trans-unit id="Resources\TxtStart\Text" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <target state="new">Start</target>
+        </trans-unit>
+        <trans-unit id="Resources\TxtMinutes\Text" translate="yes" xml:space="preserve">
+          <source>min</source>
+          <target state="new">min</target>
+        </trans-unit>
+        <trans-unit id="Resources\TxtLength\Text" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target state="new">Length</target>
+        </trans-unit>
+        <trans-unit id="Resources\TxtEndTime\Text" translate="yes" xml:space="preserve">
+          <source>to</source>
+          <target state="new">to</target>
+        </trans-unit>
+        <trans-unit id="Resources\TxtEnd\Text" translate="yes" xml:space="preserve">
+          <source>End</source>
+          <target state="new">End</target>
+        </trans-unit>
+        <trans-unit id="Resources\TitleApp\Title" translate="yes" xml:space="preserve">
+          <source>Easy TimeSheet</source>
+          <target state="new">Easy TimeSheet</target>
+        </trans-unit>
+        <trans-unit id="Resources\TitleA\Text" translate="yes" xml:space="preserve">
+          <source>Easy TimeSheet</source>
+          <target state="new">Easy TimeSheet</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleModelsList\Text" translate="yes" xml:space="preserve">
+          <source>Models list</source>
+          <target state="new">Models list</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleDelUp\Text" translate="yes" xml:space="preserve">
+          <source>Delete - Update</source>
+          <target state="new">Delete - Update</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleAddModel\Text" translate="yes" xml:space="preserve">
+          <source>Add Model</source>
+          <target state="new">Add Model</target>
+        </trans-unit>
+        <trans-unit id="Resources\SubtitleAbout\Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+        </trans-unit>
+        <trans-unit id="Resources\PvItemWeek\Header" translate="yes" xml:space="preserve">
+          <source>Week</source>
+          <target state="new">Week</target>
+        </trans-unit>
+        <trans-unit id="Resources\PvItemMonth\Header" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <target state="new">Month</target>
+        </trans-unit>
+        <trans-unit id="Resources\PvItemHome\Header" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="Resources\PvItemgrap\Header" translate="yes" xml:space="preserve">
+          <source>Graphs</source>
+          <target state="new">Graphs</target>
+        </trans-unit>
+        <trans-unit id="Resources\PvItemDay\Header" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <target state="new">Day</target>
+        </trans-unit>
+        <trans-unit id="Resources\PlaceHolderName\Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Resources\PlaceHolderDesc\Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Resources\NoElements\Text" translate="yes" xml:space="preserve">
+          <source>No Items</source>
+          <target state="new">No Items</target>
+        </trans-unit>
+        <trans-unit id="Resources\GraphsW\Title" translate="yes" xml:space="preserve">
+          <source>Week</source>
+          <target state="new">Week</target>
+        </trans-unit>
+        <trans-unit id="Resources\GraphsT\Title" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="new">Total</target>
+        </trans-unit>
+        <trans-unit id="Resources\GraphsM\Title" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <target state="new">Month</target>
+        </trans-unit>
+        <trans-unit id="Resources\GraphsD\Title" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <target state="new">Day</target>
+        </trans-unit>
+        <trans-unit id="Resources\CreatedBy\Text" translate="yes" xml:space="preserve">
+          <source>Created by Etienne Tomaselli</source>
+          <target state="new">Created by Etienne Tomaselli</target>
+        </trans-unit>
+        <trans-unit id="Resources\CmbTypeAc\PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Activity Type</source>
+          <target state="new">Activity Type</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnUpdate\Content" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnReview\Content" translate="yes" xml:space="preserve">
+          <source>Review</source>
+          <target state="new">Review</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnModels\Label" translate="yes" xml:space="preserve">
+          <source>Models</source>
+          <target state="new">Models</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnExport\Label" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnDeleteAll\Content" translate="yes" xml:space="preserve">
+          <source>Delete All</source>
+          <target state="new">Delete All</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnDelete\Content" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnAdd\Content" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="Resources\BtnAbout\Label" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+        </trans-unit>
+        <trans-unit id="Resources\AppVersion\Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

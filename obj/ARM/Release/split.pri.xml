@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="42822etiX.Easytimesheet" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-GB, EN-US</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="timesheet.xr.xml" uri="ms-resource://42822etiX.Easytimesheet/Files/timesheet.xr.xml">
+				<Candidate type="Path">
+					<Value>timesheet.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="DarkGray.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/DarkGray.png">
+					<Candidate type="Path">
+						<Value>Assets\DarkGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LightGray.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/LightGray.png">
+					<Candidate type="Path">
+						<Value>Assets\LightGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediumGray.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/MediumGray.png">
+					<Candidate type="Path">
+						<Value>Assets\MediumGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="block-ads.png" uri="ms-resource://42822etiX.Easytimesheet/Files/Assets/Images/block-ads.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\block-ads.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ExtendedListView">
+				<NamedResource name="ExtendedListView.xr.xml" uri="ms-resource://42822etiX.Easytimesheet/Files/ExtendedListView/ExtendedListView.xr.xml">
+					<Candidate type="Path">
+						<Value>ExtendedListView\ExtendedListView.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/ExtendedListView/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>ExtendedListView\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+				<NamedResource name="Microsoft.Advertising.Mobile.UI.xr.xml" uri="ms-resource://42822etiX.Easytimesheet/Files/Microsoft.Advertising.Mobile.UI/Microsoft.Advertising.Mobile.UI.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.Mobile.UI\Microsoft.Advertising.Mobile.UI.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/Microsoft.Advertising.Mobile.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Web">
+					<NamedResource name="bootstrap.html" uri="ms-resource://42822etiX.Easytimesheet/Files/Microsoft.Advertising.Mobile.UI/Web/bootstrap.html">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Ormma.js" uri="ms-resource://42822etiX.Easytimesheet/Files/Microsoft.Advertising.Mobile.UI/Web/Ormma.js">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Themes">
+				<NamedResource name="Generic.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/Themes/Generic.xbf">
+					<Candidate type="Path">
+						<Value>Themes\Generic.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="View">
+				<NamedResource name="AboutPage.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/AboutPage.xbf">
+					<Candidate type="Path">
+						<Value>View\AboutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AddModel.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/AddModel.xbf">
+					<Candidate type="Path">
+						<Value>View\AddModel.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DeleteUpdateModel.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/DeleteUpdateModel.xbf">
+					<Candidate type="Path">
+						<Value>View\DeleteUpdateModel.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExportData.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/ExportData.xbf">
+					<Candidate type="Path">
+						<Value>View\ExportData.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Home.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/Home.xbf">
+					<Candidate type="Path">
+						<Value>View\Home.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="QueryActivitiesList.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/QueryActivitiesList.xbf">
+					<Candidate type="Path">
+						<Value>View\QueryActivitiesList.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ReadModelsList.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/ReadModelsList.xbf">
+					<Candidate type="Path">
+						<Value>View\ReadModelsList.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RemoveAds.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/RemoveAds.xbf">
+					<Candidate type="Path">
+						<Value>View\RemoveAds.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Settings.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/View/Settings.xbf">
+					<Candidate type="Path">
+						<Value>View\Settings.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinRTXamlToolkit">
+				<NamedResource name="WinRTXamlToolkit.xr.xml" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/WinRTXamlToolkit.xr.xml">
+					<Candidate type="Path">
+						<Value>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="AlternativeFrame">
+						<NamedResource name="AlternativeFrame.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/AlternativeFrame/AlternativeFrame.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="AnimatingContainer">
+						<NamedResource name="AnimatingContainer.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/AnimatingContainer/AnimatingContainer.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="AutoCompleteTextBox">
+						<NamedResource name="AutoCompleteTextBox.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/AutoCompleteTextBox/AutoCompleteTextBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CameraCaptureControl">
+						<NamedResource name="CameraCaptureControl.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/CameraCaptureControl/CameraCaptureControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CascadingImageControl">
+						<NamedResource name="CascadingImageControl.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/CascadingImageControl/CascadingImageControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CascadingTextBlock">
+						<NamedResource name="CascadingTextBlock.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/CascadingTextBlock/CascadingTextBlock.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ColorPicker">
+						<NamedResource name="ColorPicker.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ColorPicker/ColorPicker.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CountdownControl">
+						<NamedResource name="CountdownControl.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/CountdownControl/CountdownControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CustomGridSplitter">
+						<NamedResource name="CustomGridSplitter.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/CustomGridSplitter/CustomGridSplitter.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="DelayedLoadControl">
+						<NamedResource name="DelayedLoadControl.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/DelayedLoadControl/DelayedLoadControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="FocusVisualizer">
+						<NamedResource name="FocusVisualizer.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/FocusVisualizer/FocusVisualizer.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="FxContentControl">
+						<NamedResource name="FxContentControl.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/FxContentControl/FxContentControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ImageButton">
+						<NamedResource name="ImageButton.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ImageButton/ImageButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ImageToggleButton">
+						<NamedResource name="ImageToggleButton.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ImageToggleButton/ImageToggleButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="InputDialog">
+						<NamedResource name="InputDialog.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/InputDialog/InputDialog.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ListItemButton">
+						<NamedResource name="ListItemButton.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ListItemButton/ListItemButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="NumericUpDown">
+						<NamedResource name="NumericUpDown.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/NumericUpDown/NumericUpDown.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ToolStrip">
+						<NamedResource name="ToolStrip.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ToolStrip/ToolStrip.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ToolWindow">
+						<NamedResource name="ToolWindow.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/ToolWindow/ToolWindow.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="TreeView">
+						<NamedResource name="TreeView.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/TreeView/TreeView.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewItem.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewItem.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewMouse.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewMouse.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewTouch.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewTouch.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WatermarkPasswordBox">
+						<NamedResource name="WatermarkPasswordBox.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/WatermarkPasswordBox/WatermarkPasswordBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WatermarkTextBox">
+						<NamedResource name="WatermarkTextBox.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Controls/WatermarkTextBox/WatermarkTextBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>WinRTXamlToolkit\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinRTXamlToolkit.Controls.DataVisualization">
+				<NamedResource name="WinRTXamlToolkit.Controls.DataVisualization.xr.xml" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/WinRTXamlToolkit.Controls.DataVisualization.xr.xml">
+					<Candidate type="Path">
+						<Value>WinRTXamlToolkit.Controls.DataVisualization\WinRTXamlToolkit.Controls.DataVisualization.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Charting">
+					<ResourceMapSubtree name="Axis">
+						<NamedResource name="AxisLabel.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Axis/AxisLabel.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\AxisLabel.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DateTimeAxisLabel.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Axis/DateTimeAxisLabel.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DateTimeAxisLabel.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DisplayAxis.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Axis/DisplayAxis.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DisplayAxis.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="NumericAxisLabel.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Axis/NumericAxisLabel.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\NumericAxisLabel.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="RangeAxis.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Axis/RangeAxis.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\RangeAxis.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Chart">
+						<NamedResource name="Chart.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Chart/Chart.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Chart\Chart.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="DataPoint">
+						<NamedResource name="AreaDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/AreaDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\AreaDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="BarDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/BarDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BarDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="BubbleDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/BubbleDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BubbleDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ColumnDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/ColumnDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ColumnDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LineDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/LineDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\LineDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="PieDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/PieDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\PieDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ScatterDataPoint.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/DataPoint/ScatterDataPoint.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ScatterDataPoint.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Primitives">
+						<NamedResource name="DelegatingListBox.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Primitives/DelegatingListBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Primitives\DelegatingListBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Series">
+						<NamedResource name="AreaSeries.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/AreaSeries.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\AreaSeries.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DataPointSeries.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/DataPointSeries.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DataPointSeries.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DefinitionSeries.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/DefinitionSeries.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DefinitionSeries.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LegendItem.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/LegendItem.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LegendItem.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LineSeries.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/LineSeries.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LineSeries.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="PieSeries.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Charting/Series/PieSeries.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\PieSeries.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Legend">
+					<NamedResource name="Legend.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Legend/Legend.xbf">
+						<Candidate type="Path">
+							<Value>WinRTXamlToolkit.Controls.DataVisualization\Legend\Legend.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>WinRTXamlToolkit.Controls.DataVisualization\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Title">
+					<NamedResource name="Title.xbf" uri="ms-resource://42822etiX.Easytimesheet/Files/WinRTXamlToolkit.Controls.DataVisualization/Title/Title.xbf">
+						<Candidate type="Path">
+							<Value>WinRTXamlToolkit.Controls.DataVisualization\Title\Title.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Common">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdComponentAlreadyInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdComponentHasNotBeenInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppPlatformVersionInvalid" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AppPlatformVersionInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CountryOrRegionLengthInvalid" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CountryOrRegionLengthInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAdUnitId" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAdUnitId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefreshExpanded" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefreshExpanded">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KeywordsExceedMaxLength" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/KeywordsExceedMaxLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NetworkNotAvailable" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NetworkNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OnlyTestAdsAllowedInEmulator" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/OnlyTestAdsAllowedInEmulator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PostalCodeExceedsMaxLength" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/PostalCodeExceedsMaxLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafAdOrPrmMissing" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafAdOrPrmMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafRendererMissingEmptyOrNotAnArray" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafRendererMissingEmptyOrNotAnArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaContentNotFound" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaContentNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Display">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="ActionMenuTitle" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/ActionMenuTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BrowseTextPrefix" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/BrowseTextPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>browse</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CallTextPrefix" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/CallTextPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>call</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CancelButtonText" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/CancelButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ellipses" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/Ellipses">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>...</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ResponseError" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.Display/Strings/ResponseError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+			<ResourceMapSubtree name="WinPhone">
+				<NamedResource name="HtmlForImage" uri="ms-resource://42822etiX.Easytimesheet/Microsoft.Advertising.Mobile.UI/WinPhone/HtmlForImage">
+					<Candidate type="String">
+						<Value>&lt;html&gt;&lt;head&gt;&lt;meta name='MobileOptimized' content='{0}' /&gt;&lt;style type="text/css"&gt;@media all {{@-ms-viewport{{user-zoom: fixed;max-zoom: 1;min-zoom: 1;width: device-width;height: device-height;}}}}&lt;/style&gt;&lt;/head&gt;&lt;body style="margin:0;padding:0"&gt;&lt;img src="data:image;base64,{1}" style="width:100%;max-width:100%;max-height:100%;display:block;margin:auto;" /&gt;&lt;/body&gt;&lt;/html&gt;</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<ResourceMapSubtree name="AppDescription">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/AppDescription/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Timesheet it's a easy method to record and track the amount of the working time spent on each activity.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AppVersion">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/AppVersion/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Version</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnAbortCtrl">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnAbortCtrl/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Abort</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnAbout">
+				<NamedResource name="Label" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnAbout/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnAdd">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnAdd/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnAds">
+				<NamedResource name="Label" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnAds/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>In-App Purchase</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnCompra">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnCompra/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Buy Now</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnDelete">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnDelete/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnDeleteAll">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnDeleteAll/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete All</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnDeleteAllAc">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnDeleteAllAc/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete All Activity</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnExport">
+				<NamedResource name="Label" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnExport/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Export</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnModels">
+				<NamedResource name="Label" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnModels/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Models</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnReloadGraphs">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnReloadGraphs/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Reload All Graphs</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnReview">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnReview/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Review</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnSaveFileLocal">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnSaveFileLocal/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Save on Phone</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnSaveFileOneDrive">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnSaveFileOneDrive/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Save on OneDrive</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnSearch">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnSearch/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnSendByMail">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnSendByMail/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Send by Mail</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnSettings">
+				<NamedResource name="Label" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnSettings/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Settings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnStartCtrl">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnStartCtrl/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnStopCtrl">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnStopCtrl/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>End</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BtnUpdate">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/BtnUpdate/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Update</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CmbTypeAc">
+				<NamedResource name="PlaceholderText" uri="ms-resource://42822etiX.Easytimesheet/Resources/CmbTypeAc/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Activity Type</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreatedBy">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/CreatedBy/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Created by Etienne Tomaselli</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DTpickerFrom">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/DTpickerFrom/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DTpickerTo">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/DTpickerTo/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GraphsD">
+				<NamedResource name="Title" uri="ms-resource://42822etiX.Easytimesheet/Resources/GraphsD/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Day</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GraphsM">
+				<NamedResource name="Title" uri="ms-resource://42822etiX.Easytimesheet/Resources/GraphsM/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Month</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GraphsT">
+				<NamedResource name="Title" uri="ms-resource://42822etiX.Easytimesheet/Resources/GraphsT/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Total</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GraphsW">
+				<NamedResource name="Title" uri="ms-resource://42822etiX.Easytimesheet/Resources/GraphsW/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Week</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NoElements">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/NoElements/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No Items</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PlaceHolderDesc">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/PlaceHolderDesc/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Description</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PlaceHolderName">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/PlaceHolderName/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PvItemDay">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/PvItemDay/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Day</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PvItemgrap">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/PvItemgrap/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Graphs</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PvItemHome">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/PvItemHome/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Home</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PvItemMonth">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/PvItemMonth/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Month</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PvItemWeek">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/PvItemWeek/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Week</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleAbout">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleAbout/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleActivitiesQ">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleActivitiesQ/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Activities</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleAddModel">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleAddModel/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add Model</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleAds">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleAds/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>In-App Purchase</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleDelUp">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleDelUp/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete - Update</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleExportPage">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleExportPage/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Export</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleModelsList">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleModelsList/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Models list</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SubtitleSettings">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/SubtitleSettings/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Settings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SuggestionAndFeed">
+				<NamedResource name="Content" uri="ms-resource://42822etiX.Easytimesheet/Resources/SuggestionAndFeed/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Help and Suggestion</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TitleA">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TitleA/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Easy TimeSheet</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TitleApp">
+				<NamedResource name="Title" uri="ms-resource://42822etiX.Easytimesheet/Resources/TitleApp/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Easy TimeSheet</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ToogleLiveTile">
+				<NamedResource name="Header" uri="ms-resource://42822etiX.Easytimesheet/Resources/ToogleLiveTile/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Live Tile</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtEnd">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtEnd/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>End</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtEndTime">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtEndTime/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtLength">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtLength/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Length</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtMinutes">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtMinutes/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>min</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="txtNoActivityRunning">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/txtNoActivityRunning/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No Activity running</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtStart">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtStart/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TxtStartTime">
+				<NamedResource name="Text" uri="ms-resource://42822etiX.Easytimesheet/Resources/TxtStartTime/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>from</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources">
+			<NamedResource name="Chart_Axes_SetterNotSupported" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Chart_Axes_SetterNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Changing the Chart's Axes property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Chart_AxisLocationChanged_CantBeChangedToAutoWhenHostedInsideOfASeriesHost" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Chart_AxisLocationChanged_CantBeChangedToAutoWhenHostedInsideOfASeriesHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Axis location cannot be changed to auto when hosted inside of a series host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Chart_Series_SetterNotSupported" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Chart_Series_SetterNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Changing the Chart's Series property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataPointSeriesDropTarget_set_Content_ContentMustBeAChart" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DataPointSeriesDropTarget_set_Content_ContentMustBeAChart">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The content property must be set to a Chart object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataPointSeriesWithAxes_GetAxes_AssignedDependentAxisCannotBeUsed" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DataPointSeriesWithAxes_GetAxes_AssignedDependentAxisCannotBeUsed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Assigned dependent axis cannot be used. This may be due to an unset Orientation property for the axis or a type mismatch between the values being plotted and those supported by the axis.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataPointSeriesWithAxes_GetAxes_AssignedIndependentAxisCannotBeUsed" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DataPointSeriesWithAxes_GetAxes_AssignedIndependentAxisCannotBeUsed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Assigned independent axis cannot be used. This may be due to an unset Orientation property for the axis.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataPointSeriesWithAxes_NoSuitableAxisAvailableForPlottingDependentValue" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DataPointSeriesWithAxes_NoSuitableAxisAvailableForPlottingDependentValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No suitable axis is available for plotting the dependent value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataPointSeriesWithAxes_ThisSeriesDoesNotSupportRadialAxes" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DataPointSeriesWithAxes_ThisSeriesDoesNotSupportRadialAxes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This series does not support radial axes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefinitionSeries_EnsureAxes_MissingDependentValueBinding" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DefinitionSeries_EnsureAxes_MissingDependentValueBinding">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A SeriesDefinition does not have its DependentValueBinding or DependentValuePath properties set; unable to determine the source for dependent values. Please use either of these properties to identify the data model property corresponding to the dependent values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefinitionSeries_EnsureAxes_MissingIndependentValueBinding" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DefinitionSeries_EnsureAxes_MissingIndependentValueBinding">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A SeriesDefinition does not have its IndependentValueBinding or IndependentValuePath properties set; unable to determine the source for independent values. Please use either of these properties to identify the data model property corresponding to the independent values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefinitionSeries_SeriesDefinitions_SetterNotSupported" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DefinitionSeries_SeriesDefinitions_SetterNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Changing the SeriesDefinitions property of a DefinitionSeries is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DisplayAxis_GetLength_CannotDetermineTheLengthOfAnAxisWithAnOrientationOfNone" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/DisplayAxis_GetLength_CannotDetermineTheLengthOfAnAxisWithAnOrientationOfNone">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot determine the size of an axis without an orientation.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EdgePanel_OnEdgePropertyChanged" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/EdgePanel_OnEdgePropertyChanged">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attempt to set Edge property to an invalid value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Interpolator_IncludeInRange_DataRangeBindingNotIConvertible" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Interpolator_IncludeInRange_DataRangeBindingNotIConvertible">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The DataRangeBinding property of the Interpolator must be bound to an IConvertible object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RangeAxis_MaximumValueMustBeLargerThanOrEqualToMinimumValue" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/RangeAxis_MaximumValueMustBeLargerThanOrEqualToMinimumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The maximum value must be larger than or equal to the minimum value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RangeAxis_MinimumValueMustBeLargerThanOrEqualToMaximumValue" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/RangeAxis_MinimumValueMustBeLargerThanOrEqualToMaximumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The minimum value must be smaller than or equal to the maximum value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Range_ctor_MaximumValueMustBeLargerThanOrEqualToMinimumValue" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Range_ctor_MaximumValueMustBeLargerThanOrEqualToMinimumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The maximum value must be larger than or equal to the minimum value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Range_get_Maximum_CannotReadTheMaximumOfAnEmptyRange" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Range_get_Maximum_CannotReadTheMaximumOfAnEmptyRange">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>"Cannot read the Maximum of an empty range."</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Range_get_Minimum_CannotReadTheMinimumOfAnEmptyRange" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Range_get_Minimum_CannotReadTheMinimumOfAnEmptyRange">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>"Cannot read the Minimum of an empty range."</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Range_ToString_Data" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Range_ToString_Data">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>[{0},{1}]</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Range_ToString_NoData" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Range_ToString_NoData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No Data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadOnlyObservableCollection_CollectionIsReadOnly" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/ReadOnlyObservableCollection_CollectionIsReadOnly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Collection is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResourceDictionaryEnumerator_CantResetEnumeratorResetDispenserInstead" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/ResourceDictionaryEnumerator_CantResetEnumeratorResetDispenserInstead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot reset a ResourceDictionaryEnumerator; reset the ResourceDictionaryDispenser instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SeriesDefinition_SeriesHost_InvalidParent" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/SeriesDefinition_SeriesHost_InvalidParent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A SeriesDefinition instance's SeriesHost property may only be set to an instance of the DefinitionSeries class; other SeriesHost types are not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SeriesHostAxesCollection_InvalidAttemptToRemovePermanentAxisFromSeriesHost" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/SeriesHostAxesCollection_InvalidAttemptToRemovePermanentAxisFromSeriesHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to remove permanent axis from axis collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SeriesHostAxesCollection_RemoveItem_AxisCannotBeRemovedFromASeriesHostWhenOneOrMoreSeriesAreListeningToIt" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/SeriesHostAxesCollection_RemoveItem_AxisCannotBeRemovedFromASeriesHostWhenOneOrMoreSeriesAreListeningToIt">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An axis cannot be removed from a series host when one or more hosted series is listening to it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Series_OnGlobalSeriesIndexPropertyChanged_UntitledSeriesFormatString" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Series_OnGlobalSeriesIndexPropertyChanged_UntitledSeriesFormatString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Series {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Series_SeriesHost_SeriesHostPropertyNotNull" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/Series_SeriesHost_SeriesHostPropertyNotNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A series cannot be added to more than one series host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TreeMap_BuildTreeMapTree_TemplateNotSet" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/TreeMap_BuildTreeMapTree_TemplateNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Either ItemTemplate must be set or TreeMapItemDefinitionSelector must return a non-null template.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TreeMap_CreateChildren_InterpolatorBindingNotSet" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/TreeMap_CreateChildren_InterpolatorBindingNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value of PropertyBinding property of an interpolator cannot be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TreeMap_Interpolators_SetterNotSupported" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/TreeMap_Interpolators_SetterNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Changing the TreeMap's Interpolators Property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UniqueObservableCollection_InvalidAttemptToInsertADuplicateItem" uri="ms-resource://42822etiX.Easytimesheet/WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources/UniqueObservableCollection_InvalidAttemptToInsertADuplicateItem">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to insert a duplicate item.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

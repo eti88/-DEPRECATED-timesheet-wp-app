@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PriInfo>
+  <PriHeader>
+    <WindowsEnvironment checksum="0" version="1.0" />
+    <AutoMerge>false</AutoMerge>
+  </PriHeader>
+  <QualifierInfo>
+    <Qualifiers>
+      <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+    </Qualifiers>
+    <QualifierSets>
+      <QualifierSet index="1">
+        <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+      </QualifierSet>
+    </QualifierSets>
+    <Decisions>
+      <Decision index="1">
+        <QualifierSet index="1">
+          <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+        </QualifierSet>
+      </Decision>
+    </Decisions>
+  </QualifierInfo>
+  <ResourceMap name="timesheet" primary="true">
+    <VersionInfo version="1.0" />
+    <ResourceMapSubtree index="1" name="Resources">
+      <NamedResource index="1" name="SubtitleAds\Text" uri="ms-resource://timesheet/Resources/SubtitleAds\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Acquisti in-App</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnAds\Label" uri="ms-resource://timesheet/Resources/BtnAds\Label">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Acquista</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnCompra\Content" uri="ms-resource://timesheet/Resources/BtnCompra\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Compra</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="txtNoActivityRunning\Text" uri="ms-resource://timesheet/Resources/txtNoActivityRunning\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Nessuna attività in esecuzione</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="ToogleLiveTile\Header" uri="ms-resource://timesheet/Resources/ToogleLiveTile\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Live Tile</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleSettings\Text" uri="ms-resource://timesheet/Resources/SubtitleSettings\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Settings</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnSettings\Label" uri="ms-resource://timesheet/Resources/BtnSettings\Label">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Settings</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnDeleteAllAc\Content" uri="ms-resource://timesheet/Resources/BtnDeleteAllAc\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Elimina tutte le Attività</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleExportPage\Text" uri="ms-resource://timesheet/Resources/SubtitleExportPage\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Esporta</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleActivitiesQ\Text" uri="ms-resource://timesheet/Resources/SubtitleActivitiesQ\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Atività</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DTpickerFrom\Header" uri="ms-resource://timesheet/Resources/DTpickerFrom\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>da</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DTpickerTo\Header" uri="ms-resource://timesheet/Resources/DTpickerTo\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>a</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnStopCtrl\Content" uri="ms-resource://timesheet/Resources/BtnStopCtrl\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Fine</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnAbortCtrl\Content" uri="ms-resource://timesheet/Resources/BtnAbortCtrl\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Annulla</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnStartCtrl\Content" uri="ms-resource://timesheet/Resources/BtnStartCtrl\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Avvia</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnSearch\Content" uri="ms-resource://timesheet/Resources/BtnSearch\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Cerca</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnSaveFileLocal\Content" uri="ms-resource://timesheet/Resources/BtnSaveFileLocal\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Salva sul telefono</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnSaveFileOneDrive\Content" uri="ms-resource://timesheet/Resources/BtnSaveFileOneDrive\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Salva su OneDrive</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnReloadGraphs\Content" uri="ms-resource://timesheet/Resources/BtnReloadGraphs\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Ricarica pagina</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SuggestionAndFeed\Content" uri="ms-resource://timesheet/Resources/SuggestionAndFeed\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Suggerimenti</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="AppDescription\Text" uri="ms-resource://timesheet/Resources/AppDescription\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Easy Timesheet è un modo semplice per registrare e tener traccia del tempo speso su ogni attività che desideri.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtStartTime\Text" uri="ms-resource://timesheet/Resources/TxtStartTime\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>dalle</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtStart\Text" uri="ms-resource://timesheet/Resources/TxtStart\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Inizio</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtMinutes\Text" uri="ms-resource://timesheet/Resources/TxtMinutes\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>min</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtLength\Text" uri="ms-resource://timesheet/Resources/TxtLength\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Durata</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtEndTime\Text" uri="ms-resource://timesheet/Resources/TxtEndTime\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>alle</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TxtEnd\Text" uri="ms-resource://timesheet/Resources/TxtEnd\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Fine</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TitleApp\Title" uri="ms-resource://timesheet/Resources/TitleApp\Title">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Easy TimeSheet</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TitleA\Text" uri="ms-resource://timesheet/Resources/TitleA\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Easy TimeSheet</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleModelsList\Text" uri="ms-resource://timesheet/Resources/SubtitleModelsList\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Lista Modelli</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleDelUp\Text" uri="ms-resource://timesheet/Resources/SubtitleDelUp\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Elimina - Aggiorna</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleAddModel\Text" uri="ms-resource://timesheet/Resources/SubtitleAddModel\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Nuovo Modello</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SubtitleAbout\Text" uri="ms-resource://timesheet/Resources/SubtitleAbout\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>About</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PvItemWeek\Header" uri="ms-resource://timesheet/Resources/PvItemWeek\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Settimana</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PvItemMonth\Header" uri="ms-resource://timesheet/Resources/PvItemMonth\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Mese</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PvItemHome\Header" uri="ms-resource://timesheet/Resources/PvItemHome\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Home</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PvItemgrap\Header" uri="ms-resource://timesheet/Resources/PvItemgrap\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Grafici</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PvItemDay\Header" uri="ms-resource://timesheet/Resources/PvItemDay\Header">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Giorno</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PlaceHolderName\Text" uri="ms-resource://timesheet/Resources/PlaceHolderName\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Nome</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="PlaceHolderDesc\Text" uri="ms-resource://timesheet/Resources/PlaceHolderDesc\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Descrizione</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="NoElements\Text" uri="ms-resource://timesheet/Resources/NoElements\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Nessun elemento</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="GraphsW\Title" uri="ms-resource://timesheet/Resources/GraphsW\Title">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Settimana</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="GraphsT\Title" uri="ms-resource://timesheet/Resources/GraphsT\Title">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Totale</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="GraphsM\Title" uri="ms-resource://timesheet/Resources/GraphsM\Title">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Mese</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="GraphsD\Title" uri="ms-resource://timesheet/Resources/GraphsD\Title">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Giorno</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="CreatedBy\Text" uri="ms-resource://timesheet/Resources/CreatedBy\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Creata da Etienne Tomaselli</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="CmbTypeAc\PlaceholderText" uri="ms-resource://timesheet/Resources/CmbTypeAc\PlaceholderText">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Tipo attività</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnUpdate\Content" uri="ms-resource://timesheet/Resources/BtnUpdate\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Aggiorna</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnReview\Content" uri="ms-resource://timesheet/Resources/BtnReview\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Vota l'App</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnModels\Label" uri="ms-resource://timesheet/Resources/BtnModels\Label">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Modelli</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnExport\Label" uri="ms-resource://timesheet/Resources/BtnExport\Label">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Esporta</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnDeleteAll\Content" uri="ms-resource://timesheet/Resources/BtnDeleteAll\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Elimina tutto</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnDelete\Content" uri="ms-resource://timesheet/Resources/BtnDelete\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Elimina</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnAdd\Content" uri="ms-resource://timesheet/Resources/BtnAdd\Content">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Aggiungi</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BtnAbout\Label" uri="ms-resource://timesheet/Resources/BtnAbout\Label">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>About</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="AppVersion\Text" uri="ms-resource://timesheet/Resources/AppVersion\Text">
+        <Decision index="1">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="1">
+            <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="IT-IT" name="Language" />
+          </QualifierSet>
+          <Value>Versione</Value>
+        </Candidate>
+      </NamedResource>
+    </ResourceMapSubtree>
+  </ResourceMap>
+</PriInfo>

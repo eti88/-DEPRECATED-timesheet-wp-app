@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\etienne\documents\visual studio 2013\projects\timesheet\timesheet\obj\arm\release\intermediatexaml\timesheet.exe" HashGuid="2370b44f-9166-2f02-ec1b-f02d0341b44e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\live\v5.6\windows store app xaml\references\commonconfiguration\neutral\microsoft.live.dll" HashGuid="129ce77c-af09-9d5d-b95e-bf89af6739c7" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\etienne\documents\visual studio 2013\projects\timesheet\packages\crittercism.2.2.1\lib\wpa81\crittercismsdk.dll" HashGuid="7d6517e5-cb85-f69a-df42-6ee59436142f" />
+    <ReferenceAssembly PathName="c:\users\etienne\documents\visual studio 2013\projects\timesheet\packages\extendedlistview.0.0.5.5\lib\portable-win81+wpa81\extendedlistview.dll" HashGuid="1c154780-82cc-a952-5c90-1a1e95480b35" />
+    <ReferenceAssembly PathName="c:\users\etienne\documents\visual studio 2013\projects\timesheet\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="c:\users\etienne\documents\visual studio 2013\projects\timesheet\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

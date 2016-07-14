@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ru"
+"ResourceDimensions"		"language-ru-ru"
+
+[Files]
+"C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\obj\ARM\Release\split.language-ru.pri"			"resources.pri"

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sv"
+"ResourceDimensions"		"language-sv-se"
+
+[Files]
+"C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\obj\ARM\Release\split.language-sv.pri"			"resources.pri"

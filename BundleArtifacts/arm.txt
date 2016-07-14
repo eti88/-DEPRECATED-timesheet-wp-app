@@ -1,0 +1,3 @@
+MainPackage=C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\bin\ARM\Release\timesheet_2015.605.1448.1_Bundle\timesheet_2015.605.1448.1_ARM.appx
+SymbolPackage=C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\AppPackages\timesheet_2015.605.1448.1_Test\timesheet_2015.605.1448.1_ARM.appxsym
+ResourcePack=C:\Users\etienne\Documents\Visual Studio 2013\Projects\timesheet\timesheet\bin\ARM\Release\timesheet_2015.605.1448.1_Bundle\timesheet_2015.605.1448.1_language-it.appx

@@ -1,0 +1,177 @@
+﻿<Page
+    x:Class="timesheet.View.QueryActivitiesList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ctrl="using:ExtendedListView"
+    xmlns:local="using:timesheet.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Pannello del titolo -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock x:Uid="TitleA" Text="timeSheet" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock x:Uid="SubtitleActivitiesQ" Text="Activities" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: il contenuto deve essere inserito all'interno della seguente griglia-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+                <TextBlock x:Uid="NoElements"
+                               x:Name="txtNoItems"
+                               Visibility="Collapsed" 
+                               Text="No items" 
+                               TextAlignment="Center" 
+                               HorizontalAlignment="Stretch"/>
+
+                <ctrl:ExtendedListView x:Name="ItemsList"
+                                           PullToRefreshRequested="List_refresh" 
+                                           IsPullToRefreshEnabled="True"
+                                           Loaded="ItemList_Load"
+                                           ScrollViewer.VerticalScrollMode="Auto"
+                                           ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="0,0,0,9.5">
+                            <TextBlock  Text="{Binding Tag}"
+                                                Pivot.SlideInAnimationGroup="1"
+                                                CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                Style="{StaticResource ListViewItemTextBlockStyle}"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock  x:Uid="TxtStart"
+                                                        Grid.Column="0"
+                                                        Text="Inizio:"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="Left"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  Grid.Column="1"
+                                                        Text="{Binding ShortStartTimeDate}"
+                                                        Margin="0 0 4 0"
+                                                        HorizontalAlignment="Left"
+                                                        Foreground="{StaticResource PhoneAccentBrush}"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  x:Uid="TxtStartTime"
+                                                        Grid.Column="2"
+                                                        Text="Ore:"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="Left"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  Grid.Column="3"
+                                                        Text="{Binding ShortStartTime}"
+                                                        Margin="0 0 1 0"
+                                                        HorizontalAlignment="Left"
+                                                        Foreground="{StaticResource PhoneAccentBrush}"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                </Grid>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock  x:Uid="TxtEnd"
+                                                        Grid.Column="0"
+                                                        Text="Fine:"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="right"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  Grid.Column="1"
+                                                        Text="{Binding ShortEndTimeDate}"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="right"
+                                                        Foreground="{StaticResource PhoneAccentBrush}"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  x:Uid="TxtEndTime"
+                                                        Grid.Column="2"
+                                                        Text="Ore:"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="Left"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  Grid.Column="3"
+                                                        Text="{Binding ShortEndTime}"
+                                                        Margin="0 0 1 0"
+                                                        HorizontalAlignment="Left"
+                                                        Foreground="{StaticResource PhoneAccentBrush}"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                </Grid>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock  x:Uid="TxtLength"
+                                                        Grid.Column="0"
+                                                        Text="Durata:"
+                                                        Padding="0 0 4 0"
+                                                        HorizontalAlignment="Left"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  Grid.Column="1"
+                                                        HorizontalAlignment="right"
+                                                        Text="{Binding TimeAmount}"
+                                                        Padding="0,0,4,0"
+                                                        Foreground="{StaticResource PhoneAccentBrush}"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                    <TextBlock  x:Uid="TxtMinutes"
+                                                        Grid.Column="2"
+                                                        HorizontalAlignment="right"
+                                                        Text="min"
+                                                        Margin="0 0 0 0"
+                                                        Pivot.SlideInAnimationGroup="2"
+                                                        CommonNavigationTransitionInfo.IsStaggerElement="True"
+                                                        Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+                                </Grid>
+                            </StackPanel>
+
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                </ctrl:ExtendedListView>
+        </Grid>
+    </Grid>
+</Page>
